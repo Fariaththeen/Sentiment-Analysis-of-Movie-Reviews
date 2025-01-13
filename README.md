@@ -1,8 +1,5 @@
-# VilearnX-Task-3
-This project analyzes movie reviews using NLP to classify sentiments as positive or negative. It includes data cleaning, TF-IDF feature extraction, and a Naive Bayes classifier, along with visualizations to illustrate sentiment distribution and trends.
-
-
 # Sentiment Analysis of Movie Reviews
+This project analyzes movie reviews using NLP to classify sentiments as positive or negative. It includes data cleaning, TF-IDF feature extraction, and a Naive Bayes classifier, along with visualizations to illustrate sentiment distribution and trends.
 
 This project performs sentiment analysis on a dataset of movie reviews to classify them as positive or negative. The code is written in Python and utilizes various libraries for data preprocessing, feature extraction, model training, and visualization.
 
